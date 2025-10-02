@@ -49,11 +49,11 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 | `philosophers`  | Classic concurrency problem using threads and mutexes      | ✅ Done  |
 | `minishell`     | A tiny shell written in C                                  | ✅ Done  |
 | `cub3D`         | 3D game engine using raycasting (Wolfenstein-like)         | ✅ Done  |
-| `CPP Module 00` | Basic object-oriented concepts in C++                      | ✅ Done   |
+| `CPP Module 00` | Basic object-oriented concepts in C++                      | ✅ Done  |
 | `CPP Module 01` | Memory management, references, and streams                 | ✅ Done  |
-| `CPP Module 02` | Ad-hoc polymorphism, operator overloading                  | ✅ Done   |
-| `CPP Module 03` | Inheritance and abstract classes                           | ✅ Done   |
-| `CPP Module 04` | Subclassing, interfaces, dynamic allocation                | 🔧 In progress  |
+| `CPP Module 02` | Ad-hoc polymorphism, operator overloading                  | ✅ Done  |
+| `CPP Module 03` | Inheritance and abstract classes                           | ✅ Done  |
+| `CPP Module 04` | Subclassing, interfaces, dynamic allocation                | ✅ Done  |
 
 ---
 
