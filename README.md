@@ -43,7 +43,7 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 | `get_next_line` | Line-by-line file reading in C                                    | ✅ Done  |
 | `ft_printf`     | Custom implementation of the C printf function                    | ✅ Done  |
 | `born2beroot`   | System administration and server setup (Debian VM)                | ✅ Done  |
-| `fdf`           | Wireframe 3D model viewer using Bresenham’s algorithm             | ✅ Done  |
+| `fdf`           | Wireframe 3D model viewer using DDA’s algorithm                   | ✅ Done  |
 | `pipex`         | Unix pipelines and process piping using fork, execve, pipe        | ✅ Done  |
 | `push_swap`     | Sorting algorithm visualizer using stack operations               | ✅ Done  |
 | `philosophers`  | Classic concurrency problem using threads and mutexes             | ✅ Done  |
