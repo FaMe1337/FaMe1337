@@ -59,8 +59,7 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 | `CPP Module 07` | Templates (function and class templates)                          | ✅ Done  |
 | `CPP Module 08` | Templated containers, iterators, and algorithms                   | ✅ Done  |
 | `CPP Module 09` | STL containers (map, vector, stack) and practical usage           | ✅ Done  |
-| `IRCserver `    | IRC server implementation in C++ (sockets, poll, RFC compliance)  | ✅ Done  |
-                    (sockets, poll, RFC compliance)                            
+| `IRCserver `    | IRC server implementation in C++ (sockets, poll, RFC compliance)  | ✅ Done  |                        
 
 ---
 
