@@ -54,6 +54,13 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 | `CPP Module 02` | Ad-hoc polymorphism, operator overloading                  | ✅ Done  |
 | `CPP Module 03` | Inheritance and abstract classes                           | ✅ Done  |
 | `CPP Module 04` | Subclassing, interfaces, dynamic allocation                | ✅ Done  |
+| `CPP Module 05` | Repetition and exception handling                          | ✅ Done  |
+| `CPP Module 06` | C++ casts (static_cast, dynamic_cast, reinterpret_cast)    | ✅ Done  |
+| `CPP Module 07` | Templates (function and class templates)                   | ✅ Done  |
+| `CPP Module 08` | Templated containers, iterators, and algorithms            | ✅ Done  |
+| `CPP Module 09` | STL containers (map, vector, stack) and practical usage    | ✅ Done  |
+| `IRCserver `    | IRC server implementation in C++ 
+                    (sockets, poll, RFC compliance)                            | ✅ Done  |
 
 ---
 
