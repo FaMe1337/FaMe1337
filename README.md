@@ -66,4 +66,4 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 ## 📫 Let's Connect
 
 - 📧 fabio4_8@hotmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-santos-24794434a/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fábio-santos-24794434a)
