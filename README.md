@@ -61,8 +61,7 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 | `CPP Module 09` | STL containers (map, vector, stack) and practical usage           | ✅ Done  |
 | `IRCserver `    | IRC server implementation in C++ (sockets, poll, RFC compliance)  | ✅ Done  |
 | `Inception`     | Dockerized web infrastructure with Nginx, WordPress, and MariaDB  | ✅ Done  |
-| `transcendence `| Modern full-stack web application with authentication             | 🚧 In Progress  |
-                    and real-time features 
+| `transcendence `| Modern full-stack web application                                 |🚧 In Progress  |                                          
 
 ---
 
