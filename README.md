@@ -1,7 +1,6 @@
 # 👋 Hey there!
 
-I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, currently diving deep into low-level programming, algorithms, and systems development.
-
+I'm Fábio, a Software Developer student at 42 Lisboa with a strong interest in low-level programming, systems development, networking, and modern software engineering. I enjoy solving challenging problems and building reliable software from the ground up.
 ---
 
 ## 💼 About Me
@@ -10,9 +9,10 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 - 💡 Passionate about **problem solving**, **clean code**, and **learning in general**
 - 🌱 Currently learning:
   - Advanced C++
-  - Data Structures & Algorithms
-  - Git & CI/CD workflows
-  - Shell scripting and system programming
+  - Software Architecture & Design Patterns
+  - Full-Stack Web Development
+  - Docker & Containerization
+  - CI/CD workflows
 
 ---
 
@@ -24,14 +24,16 @@ I'm Fábio and I'm an aspiring **Software Developer** and student at 42 Lisboa, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Concepts:** Algorithms, Computational Logic, Problem-Solving
+- **Concepts:** Algorithms & Data Structures, Object-Oriented Programming (OOP), Multithreading & Synchronization, Network Programming (Sockets), Memory Management, System Programming
 - **Soft Skills:** Teamwork, Adaptability, Organization
 
 **Tools**
 - Git & GitHub
-- Makefiles
-- Valgrind, gdb
-- VS Code, Vim
+- Docker & Docker Compose
+- Linux
+- Make
+- GDB & Valgrind
+- VS Code & Vim
 
 ---
 
